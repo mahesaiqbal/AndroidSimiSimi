@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidSimiSimi</string>
+    <string name="simisimi_api">your_api_key</string>
+</resources>
