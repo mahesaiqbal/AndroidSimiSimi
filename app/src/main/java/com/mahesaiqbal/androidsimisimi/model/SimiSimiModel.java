@@ -18,9 +18,6 @@ public class SimiSimiModel {
         this.msg = msg;
     }
 
-    public SimiSimiModel() {
-    }
-
     public String getResponse() {
         return response;
     }
